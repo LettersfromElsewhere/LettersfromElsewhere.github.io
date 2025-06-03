@@ -3,7 +3,7 @@
 Billy Rick:
   name        : "Letters from Elsewhere"
   bio         : "A journal of wandering and stillness."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/avatar.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -16,9 +16,9 @@ Billy Rick:
       url: "https://twitter.com/extravagantman"
 
 Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
+  name        : "Letters from Elsewhere
+  bio         : "A journal of wandering and stillness."
+  avatar      : "/assets/images/avatar.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
