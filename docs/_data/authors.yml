@@ -4,16 +4,7 @@ Billy Rick:
   name        : "Letters from Elsewhere"
   bio         : "A journal of wandering and stillness."
   avatar      : "/assets/images/avatar.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+  links
 
 Cornelius Fiddlebone:
   name        : "Letters from Elsewhere
