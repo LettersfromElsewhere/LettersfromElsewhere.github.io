@@ -1,6 +1,14 @@
 ---
-layout: splash
+---
+layout: single
+author_profile: true
+title: "Letters from Elsewhere"
 permalink: /
+---
+
+Welcome to my corner of elsewhere.  
+Here I collect words, places, and the quiet things in between.
+
 hidden: true
 header:
   overlay_color: "#5e616c"
